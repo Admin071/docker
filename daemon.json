@@ -1,0 +1,11 @@
+{
+"insecure-registries": ["192.168.100.10"],
+ "registry-mirrors": ["https://docker.rainbond.cc",
+   "https://do.nark.eu.org",
+   "https://dc.j8.work",
+   "https://docker.m.daocloud.io",
+   "https://dockerproxy.com",
+   "https://docker.mirrors.ustc.edu.cn",
+   "https://docker.nju.edu.cn"
+ ]
+}
